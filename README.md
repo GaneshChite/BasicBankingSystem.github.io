@@ -1,6 +1,6 @@
-# Rushikesh Sali
+# Ganesh Chite
 # Web Development Intern at spark foundation
-# I've completed 1st task of internship #gripjune21
+# I've completed 1st task of internship #gripnovember22
 # Project 
 # Basic-Banking-System for the domain web development and designing
 
